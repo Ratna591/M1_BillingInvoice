@@ -1,1 +1,2 @@
 
+Introduction: Restaurant billing system is like a data warehouse for restaurant. Through the transactions recorded there, you can make sense of customer preferences, offers that are working, dishes that are being loved, outlets that are performing well and so much more. Order punching is still one of the main functions of the POS, though now it’s more about the speed and accuracy your POS can offer for it. Also, with orders coming from various sources, it becomes even more important to streamlines this process and ensure there aren’t delays in order fulfilment
